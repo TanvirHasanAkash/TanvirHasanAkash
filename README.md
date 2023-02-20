@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">About Me</h1>
-<p align="center">I'm a Bangladeshi teenager who discovered his passionate appreciation for computers, advancing technologies, and video games.</p>
+<p align="center">I'm a Bangladeshi teenager who discovered his passionate appreciation for art, computers, math, and science with an unquenchable thirst for creative hobbies. I proudly entitle myself as a self-taught programmer, as well as a hobbyist. In the future, I wish to explore and dive deeper into various creative works and bring light to my diverse ideas.</p>
 <p align="center"><img src="https://raw.githubusercontent.com/HalemoGPA/HalemoGPA/main/images/Developer.gif" alt="developer gif"  height="45px"></p>
 
 <h4 align="center">Contacts</h4>
@@ -40,24 +40,18 @@
 	<img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"/>
 </p>
 
-<br />
-
 <p align="center">
 	<picture>
 		<source 
-		  srcset="https://github-readme-stats-tha.vercel.app/api/top-langs/?username=TanvirHasanAkash&theme=dark&border_color=3c3c3c&border_radius=2.5&layout=compact"
+		  srcset="https://github-readme-stats-tha.vercel.app/api/top-langs/?username=TanvirHasanAkash&theme=github_dark&border_color=3c3c3c&border_radius=24&layout=compact"
 		  media="(prefers-color-scheme: dark)"
 		/>
 		<source
-		  srcset="https://github-readme-stats-tha.vercel.app/api/top-langs/?username=TanvirHasanAkash&border_radius=2.5&layout=compact"
+		  srcset="https://github-readme-stats-tha.vercel.app/api/top-langs/?username=TanvirHasanAkash&theme=swift&border_radius=24&layout=compact"
 		  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 		/>
-		<img src="https://github-readme-stats-tha.vercel.app/api/top-langs/?username=TanvirHasanAkash&layout=compact" />
+		<img src="https://github-readme-stats-tha.vercel.app/api/top-langs/?username=TanvirHasanAkash&theme=swift&border_radius=24&layout=compact" />
 	</picture>
 </p>
 
 <hr />
-
-<p align="center">
-	<img alt="GitHub Views" src="https://img.shields.io/github/watchers/TanvirHasanAkash/TanvirHasanAkash?label=Profile%20View&logo=GitHub&style=for-the-badge">
-</p>
